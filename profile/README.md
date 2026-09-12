@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="1920" alt="Banner Ad Astra" src="../assets/banner.png" />
+  <img width="1920" alt="Banner Ad Astra" src="https://cdn.wefaber.net/orgs/adastra-org/banner.png" />
 
   <h1>Ad Astra</h1>
   <p><strong>Roleplay construido desde cero.</strong> Un servidor FiveM centrado en el realismo, la inmersión y los sistemas propios.</p>
